@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ajit!</h1>
+<h1 align="left">Hey 👋, I'm Ajit!</h1>
 <h3 align="left">An Aspiring Data Scientist from India. Currently, I'm learning ML, DL, CV, NLP & I enjoy learning new things.</h3>
 <h4 align="left">About Me 🚀</h4>
 
